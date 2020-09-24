@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react_products_management/static/css/main.c5d8f449.chunk.css",
-    "main.js": "/react_products_management/static/js/main.fbaeb584.chunk.js",
-    "main.js.map": "/react_products_management/static/js/main.fbaeb584.chunk.js.map",
+    "main.js": "/react_products_management/static/js/main.f10274e9.chunk.js",
+    "main.js.map": "/react_products_management/static/js/main.f10274e9.chunk.js.map",
     "runtime-main.js": "/react_products_management/static/js/runtime-main.0ef43213.js",
     "runtime-main.js.map": "/react_products_management/static/js/runtime-main.0ef43213.js.map",
     "static/js/2.3cbb8490.chunk.js": "/react_products_management/static/js/2.3cbb8490.chunk.js",
     "static/js/2.3cbb8490.chunk.js.map": "/react_products_management/static/js/2.3cbb8490.chunk.js.map",
     "index.html": "/react_products_management/index.html",
-    "precache-manifest.6dae720d9c8e9d6de7a41673c8fc2db8.js": "/react_products_management/precache-manifest.6dae720d9c8e9d6de7a41673c8fc2db8.js",
+    "precache-manifest.ffb5b1e9f1d20bd528f335f7bb1a3f02.js": "/react_products_management/precache-manifest.ffb5b1e9f1d20bd528f335f7bb1a3f02.js",
     "service-worker.js": "/react_products_management/service-worker.js",
     "static/css/main.c5d8f449.chunk.css.map": "/react_products_management/static/css/main.c5d8f449.chunk.css.map",
     "static/js/2.3cbb8490.chunk.js.LICENSE.txt": "/react_products_management/static/js/2.3cbb8490.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.0ef43213.js",
     "static/js/2.3cbb8490.chunk.js",
     "static/css/main.c5d8f449.chunk.css",
-    "static/js/main.fbaeb584.chunk.js"
+    "static/js/main.f10274e9.chunk.js"
   ]
 }
