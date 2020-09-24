@@ -5,22 +5,22 @@ import NotFoundPage from './pages/NotFoundPage/NotFoundPage'
 import ProductActionPage from './pages/ProductActionPage/ProductActionPage'
 const routes = [
     {
-        path: '/',
+        path: '/react_products_management/',
         exact: true,
         main: ()=> <HomePage/>
     },
     {
-        path: '/products',
+        path: '/react_products_management/products',
         exact: true,
         main: ()=> <ProductListPage/>
     },
     {
-        path: '/products/add',
+        path: '/react_products_management/products/add',
         exact: false,
         main: ({history})=> <ProductActionPage history = {history}/>
     },
     {
-        path: '/products/edit',
+        path: '/react_products_management/products/edit',
         exact: false,
         main: ({location,history})=> <ProductActionPage history = {history} location = {location}/>
     },

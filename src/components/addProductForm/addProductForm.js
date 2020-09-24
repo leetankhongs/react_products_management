@@ -87,7 +87,7 @@ class AddProductForm extends Component {
                         {this.state.id !== '' ? <button className="btn btn-primary">Chỉnh sửa</button> : <button className="btn btn-primary">Thêm</button>}
 
                         &nbsp;&nbsp;
-                        <Link to='/products' className="btn btn-danger">Hủy bỏ</Link>
+                        <Link to='/react_products_management/products' className="btn btn-danger">Hủy bỏ</Link>
                     </form>
 
                 </div>
